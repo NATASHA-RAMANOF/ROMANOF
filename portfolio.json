@@ -1,0 +1,14 @@
+{
+  "instructions": "เพิ่มผลงานใน index.html หรือใช้เป็นต้นแบบข้อมูล",
+  "items": [
+    {
+      "title": "GROMANOF Creative Banner",
+      "category": [
+        "graphic",
+        "banner",
+        "social"
+      ],
+      "image": "assets/hero-banner.png"
+    }
+  ]
+}
